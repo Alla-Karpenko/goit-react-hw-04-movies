@@ -1,0 +1,8 @@
+.MoviePreviewTthumb {
+    height: 300px;
+}
+  
+.cardBody > img {
+    display: block;
+   justify-content: space-between;
+}
